@@ -30,3 +30,19 @@ road to ppg specialist
  https://github.com/mKeRix/room-assistant/issues/1075
 
  https://github.com/adafruit/Bluefruit_LE_Connect_Android_V2/issues
+
+
+## apple watch
+
+https://github.com/irenebernardi/Apple-Watch-Signal-Analysis/blob/main/temporaryapplefile.ipynb
+
+https://github.com/inwoodev/AppleWatchLogger
+
+
+https://github.com/marianapatino/health2R
+
+https://github.com/UEFI-code/AppleWatchECG_ResearchKits
+https://github.com/callmeAnik/EDA-Fitness-Data/blob/main/Apple-Fitness-Data.csv
+
+
+
