@@ -22,3 +22,11 @@ road to ppg specialist
 
 
  https://github.com/eugenelet/Meta-rPPG
+
+
+
+ ## ble
+
+ https://github.com/mKeRix/room-assistant/issues/1075
+
+ https://github.com/adafruit/Bluefruit_LE_Connect_Android_V2/issues
