@@ -24,6 +24,11 @@ road to ppg specialist
  https://github.com/eugenelet/Meta-rPPG
 
 
+https://github.com/obss/BIOBSS
+
+
+https://github.com/Squantor/PPG_sensor_research
+
 
  ## ble
 
