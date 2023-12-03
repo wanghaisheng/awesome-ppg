@@ -10,6 +10,26 @@ road to ppg specialist
 
 
 
+
+
+
+https://github.com/smritisridhar41/Heartrate_Analysis
+
+
+https://github.com/neuropsychology/NeuroKit
+
+https://github.com/paulvangentcom/heartrate_analysis_python
+
+pyPPG
+https://physiozoo.com/
+
+https://github.com/phuselab/pyVHR
+
+
+https://github.com/meta00/vital_sqi
+
+
+
  ## toolkit
 
  https://github.com/qiriro/PPG
@@ -28,6 +48,16 @@ https://github.com/obss/BIOBSS
 
 
 https://github.com/Squantor/PPG_sensor_research
+
+
+## blog
+
+https://www.jimmynewland.com/wp/research/comparing-ppg-signals-open-vs-closed/
+
+https://medium.com/@bgallois/open-source-ppg-heart-rate-monitoring-empowering-users-with-raw-data-access-8baced61f3c8
+
+https://www.youtube.com/watch?v=oN6nxpHi5js
+
 
 
  ## ble
