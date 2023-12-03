@@ -12,6 +12,7 @@ road to ppg specialist
 
 
 
+https://pyspectrum.readthedocs.io/en/latest/quickstart.html
 
 https://github.com/smritisridhar41/Heartrate_Analysis
 
