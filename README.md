@@ -3,6 +3,10 @@ road to ppg specialist
 
 
 
+http://web.stanford.edu/class/earthsys214/notes/series.html
+
+
+https://technology.matthey.com/article/66/2/169-176/
 
 ## papers
 
